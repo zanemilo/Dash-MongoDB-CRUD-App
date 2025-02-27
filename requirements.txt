@@ -1,0 +1,10 @@
+dash
+dash-leaflet
+dash-table
+jupyter-dash
+numpy
+pandas
+matplotlib
+plotly
+pymongo
+bson
